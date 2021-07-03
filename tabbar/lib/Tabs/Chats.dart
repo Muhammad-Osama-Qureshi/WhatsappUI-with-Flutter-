@@ -47,7 +47,6 @@ class Chats extends StatelessWidget {
             title: Text("Bilal Khan"),
             subtitle: Text("Han mama"),
             leading: CircleAvatar(
-              child: Text("3"),
               backgroundImage: NetworkImage(
                   "https://media-exp1.licdn.com/dms/image/C5622AQFLlvJ57q-Atg/feedshare-shrink_800/0/1623158075642?e=1626307200&v=beta&t=lkwOSq1HLYh52Wh16JVIIJNTZj5UA1Be9P9w6bPSm8M"),
             ),
@@ -73,7 +72,6 @@ class Chats extends StatelessWidget {
               children: [
                 Text("3:25 am"),
                 CircleAvatar(
-                  child: Text("3"),
                   backgroundColor: Colors.greenAccent[200],
                   radius: 10,
                 )
@@ -84,7 +82,6 @@ class Chats extends StatelessWidget {
             title: Text("Gulsher Khan"),
             subtitle: Text("Han mama"),
             leading: CircleAvatar(
-              child: Text("3"),
               backgroundImage: NetworkImage(
                   "https://media-exp1.licdn.com/dms/image/C5622AQFLlvJ57q-Atg/feedshare-shrink_800/0/1623158075642?e=1626307200&v=beta&t=lkwOSq1HLYh52Wh16JVIIJNTZj5UA1Be9P9w6bPSm8M"),
             ),
@@ -92,7 +89,6 @@ class Chats extends StatelessWidget {
               children: [
                 Text("3:25 am"),
                 CircleAvatar(
-                  child: Text("3"),
                   backgroundColor: Colors.greenAccent[200],
                   radius: 10,
                 )
@@ -103,7 +99,6 @@ class Chats extends StatelessWidget {
             title: Text(" Waseem Khan"),
             subtitle: Text("hello "),
             leading: CircleAvatar(
-              child: Text("3"),
               backgroundImage: NetworkImage(
                   "https://media-exp1.licdn.com/dms/image/C5622AQFLlvJ57q-Atg/feedshare-shrink_800/0/1623158075642?e=1626307200&v=beta&t=lkwOSq1HLYh52Wh16JVIIJNTZj5UA1Be9P9w6bPSm8M"),
             ),
